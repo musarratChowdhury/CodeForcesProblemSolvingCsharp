@@ -3,7 +3,7 @@
 
 ### PROBLEM SOLVING ON CODEFORCES :
 
-<div align="center">
+<!-- <div align="center">
 
 <details>
   <summary>Table of Contents</summary>
@@ -28,7 +28,7 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+</details> -->
 
 ## Contributing
 
