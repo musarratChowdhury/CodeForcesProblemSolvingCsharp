@@ -1,0 +1,14 @@
+Big O Notation allows us to compare algorithms independently of input size;
+
+we often use the worst case time complexity is the deciding factor;
+
+
+O(1) or constant time; 
+O(n) or linear time;
+O(log(n)) or logarithmic time
+O(n2) or exponential time
+O(n!) or factorial time 
+
+
+We can use big-O Notation for space complexity as well ;
+
