@@ -81,4 +81,4 @@ Don't forget to give the project a star! Thanks again!
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/musarrat-chowdhury-9506351a6/
 [youtube-url]: https://www.youtube.com/channel/UCVjQmbN8hINpEb_kylWh2sg
-[youtube-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[youtube-shield]: https://img.shields.io/youtube/channel/subscribers/UCVjQmbN8hINpEb_kylWh2sg
