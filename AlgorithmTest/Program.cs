@@ -47,6 +47,9 @@ namespace AlgorithmTest
             //
             // var result = AlgorithmLibrary.ArrayAlgo.MergeTwoArrays(testarr,testarr2,false);
             // Array.ForEach(result,System.Console.WriteLine);
+            // queueAlgo.PrintBinaryNumbers(10);
+            // stackAlgo.PrintNextGreaterElement(new int[]{15,8,4,10});
+            dictionaryAlgo.frequencyCalculator(new int[]{3,4,4,5,5,7,7,8,8,8,8,8,8,5,5,5,1,1,1,1});
         }
     }
 }
