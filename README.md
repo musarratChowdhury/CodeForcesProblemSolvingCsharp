@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] [![YouTube][youtube-shield]][youtube-url]
 </br>
 
 ### PROBLEM SOLVING ON CODEFORCES :
@@ -80,3 +80,5 @@ Don't forget to give the project a star! Thanks again!
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/musarrat-chowdhury-9506351a6/
+[youtube-url]: https://www.youtube.com/channel/UCVjQmbN8hINpEb_kylWh2sg
+[youtube-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
