@@ -23,12 +23,12 @@
 ## Solved Problems :
 
 <ol>
-  <li>Problem-228A-</li>
+  
   <li>Problem-469A-I Wanna Be The Guy</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Problem-131A-cAPS lock</li>
+  <li>Problem-405A-Gravity Flip</li>
+  <li>Problem-228A-Is Your Horse Shoe On the Other Hoof?</li>
+  <li>Problem-580A-Kefa and First Steps</li>
   <li></li>
   <li></li>
   <li></li>
