@@ -4,6 +4,7 @@
 ### PROBLEM SOLVING ON CODEFORCES :
 
 <p>This repo is created for problem solving. SO solve as many as problems you can with c#, And then contribute <a href="#contributing">See Details about How to contribute</a> .This repo also has a section for ALgorithms ,Here you can add different types of algorithms in a class library.</p>
+<p>The goal is collect as many as algorithms possible for problem solving. ALso Gather a list of solved problems on Codeforces, <span style="color:tomato">All in one Place</span></p>
 
 ## Algorithms Listed so Far :
 
@@ -18,6 +19,22 @@
  <li> Algorithms</li>
 
 </ul>
+
+## Solved Problems :
+
+<ol>
+  <li>Problem-228A-</li>
+  <li>Problem-469A-I Wanna Be The Guy</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+
+</ol>
 
 <!-- <div align="center">
 
