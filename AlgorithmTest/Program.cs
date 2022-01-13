@@ -44,6 +44,9 @@ namespace AlgorithmTest
             firstNode.next = secondNode;
             secondNode.next = thirdNode;
             thirdNode.next = fourthNode;
+            //
+            // var result = AlgorithmLibrary.ArrayAlgo.MergeTwoArrays(testarr,testarr2,false);
+            // Array.ForEach(result,System.Console.WriteLine);
         }
     }
 }

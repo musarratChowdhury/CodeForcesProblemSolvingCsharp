@@ -5,6 +5,20 @@
 
 <p>This repo is created for problem solving. SO solve as many as problems you can with c#, And then contribute <a href="#contributing">See Details about How to contribute</a> .This repo also has a section for ALgorithms ,Here you can add different types of algorithms in a class library.</p>
 
+## Algorithms Listed so Far :
+
+<ul>
+ <li>Array Algorithms</li>
+ <li>String Algorithms</li>
+
+ <li>Data Structure Algorithms</li>
+
+ <li>Math Algorithms</li>
+
+ <li> Algorithms</li>
+
+</ul>
+
 <!-- <div align="center">
 
 <details>
