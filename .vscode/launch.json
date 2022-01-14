@@ -10,9 +10,9 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/problem-580A/bin/Debug/netcoreapp3.1/problem-580A.dll",
+      "program": "${workspaceFolder}/problem-148A-InsomniaCure/bin/Debug/netcoreapp3.1/problem-148A-InsomniaCure.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/problem-580A",
+      "cwd": "${workspaceFolder}/problem-148A-InsomniaCure",
       // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
       "console": "internalConsole",
       "stopAtEntry": false
