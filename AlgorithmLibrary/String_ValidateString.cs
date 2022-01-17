@@ -1,6 +1,7 @@
 using System;
 using System.Linq;//✨✨✨✨
 using System.Text;
+using System.Collections.Generic;
 
 
 
@@ -135,5 +136,22 @@ namespace AlgorithmLibrary
          }
          return sb.ToString();
       }
+      public static List<char> GiveAlltheuniqChars(string input)
+        {
+            var listofChars =new List<char>();
+            var charArr = input.ToCharArray();
+
+            foreach(char c in charArr)
+            {
+                if(!listofChars.Contains(c))
+                {
+                    listofChars.Add(c);
+                }
+            }
+          
+           
+            return listofChars;
+
+        }
    }
 }
