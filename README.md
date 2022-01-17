@@ -29,39 +29,17 @@
   <li>Problem-405A-Gravity Flip</li>
   <li>Problem-228A-Is Your Horse Shoe On the Other Hoof?</li>
   <li>Problem-580A-Kefa and First Steps</li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Problem-144A</li>
+  <li>Problem-148A</li>
+  <li>Problem-208A</li>
+  <li>Problem-337A</li>
+  <li>Problem-268A</li>
+  <li>Problem-25A</li>
+  <li>Problem-443A</li>
+  <li>Problem-1626A</li>
   <li></li>
 
 </ol>
-
-<!-- <div align="center">
-
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details> -->
 
 ## Contributing
 
