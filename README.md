@@ -38,7 +38,42 @@
   <li>Problem-443A</li>
   <li>Problem-1626A</li>
   <li>Problem-520A</li>
-  <li>Till 17th January ,2022</li>
+		
+  <li>problem/71/A	Way Too Long Words	</li>
+  <li>problem/282/A	Bit++		</li>
+
+  <li>problem/263/A	Beautiful Matrix</li>
+
+  <li>problem/112/A	Petya and strings</li>
+
+  <li>problem/118/A	String Task</li>
+
+  <li>problem/339/A	Helpful Maths</li>
+
+  <li>problem/266/A	Stones on the Table</li>
+  <li>problem/236/A	Boy or Girl</li>
+  <li>problem/96/A	FootBall</li>
+  <li>problem/546/A	Soldier And Bananas	</li>
+  <li>problem/791/A	Bear and Big Brother</li>
+  <li>problem/977/A	Wrong Substraction</li>
+  <li>problem/617/A	Elephant</li>
+  <li>problem/59/A	Word</li>
+  <li>problem/116/A	Tram	</li>
+  <li>problem/58/A	Chat Room	</li>
+  <li>problem/133/A	HQ9+</li>
+  <li>Problem - 1A - Codeforces	Theatre Square</li>
+  <li>Problem - 677A - Codeforces	Vanya and Fence	</li>
+  <li>Problem - 158B - Codeforces	Taxi	</li>
+  <li>Problem - 41A - Codeforces	Translation	</li>
+  <li>Problem - 266B - Codeforces	Queue at the School	</li>
+  <li>Problem - 158A - Codeforces	Next Round</li>
+  <li>Problem - 50A - Codeforces	Domino Piling	</li>
+  <li>problem - 69 - A	Young Physicist</li>
+  <li>Problem - 110A - Codeforces	Nearly Lucky Number</li>
+  <li>Problem - 344A - Codeforces	Magnet</li>
+
+
+  <li>Till 19th January ,2022</li>
 
 </ol>
 
