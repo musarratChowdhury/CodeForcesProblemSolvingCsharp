@@ -105,7 +105,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "problem-785A", "problem-785
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem-1335A", "Problem-1335A\Problem-1335A.csproj", "{6CD00307-6D3A-4B05-8801-8B943190AF6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem-492B-VanyaAndLanterns", "Problem-492B-VanyaAndLanterns\Problem-492B-VanyaAndLanterns.csproj", "{9794181A-04BF-4A74-86FF-EC65A78D365B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem-492B-VanyaAndLanterns", "Problem-492B-VanyaAndLanterns\Problem-492B-VanyaAndLanterns.csproj", "{9794181A-04BF-4A74-86FF-EC65A78D365B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem-230A", "Problem-230A\Problem-230A.csproj", "{CD909CBD-DE5D-46F1-992B-F02430BBDA27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -741,6 +743,18 @@ Global
 		{9794181A-04BF-4A74-86FF-EC65A78D365B}.Release|x64.Build.0 = Release|Any CPU
 		{9794181A-04BF-4A74-86FF-EC65A78D365B}.Release|x86.ActiveCfg = Release|Any CPU
 		{9794181A-04BF-4A74-86FF-EC65A78D365B}.Release|x86.Build.0 = Release|Any CPU
+		{CD909CBD-DE5D-46F1-992B-F02430BBDA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD909CBD-DE5D-46F1-992B-F02430BBDA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD909CBD-DE5D-46F1-992B-F02430BBDA27}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CD909CBD-DE5D-46F1-992B-F02430BBDA27}.Debug|x64.Build.0 = Debug|Any CPU
+		{CD909CBD-DE5D-46F1-992B-F02430BBDA27}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CD909CBD-DE5D-46F1-992B-F02430BBDA27}.Debug|x86.Build.0 = Debug|Any CPU
+		{CD909CBD-DE5D-46F1-992B-F02430BBDA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD909CBD-DE5D-46F1-992B-F02430BBDA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD909CBD-DE5D-46F1-992B-F02430BBDA27}.Release|x64.ActiveCfg = Release|Any CPU
+		{CD909CBD-DE5D-46F1-992B-F02430BBDA27}.Release|x64.Build.0 = Release|Any CPU
+		{CD909CBD-DE5D-46F1-992B-F02430BBDA27}.Release|x86.ActiveCfg = Release|Any CPU
+		{CD909CBD-DE5D-46F1-992B-F02430BBDA27}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
