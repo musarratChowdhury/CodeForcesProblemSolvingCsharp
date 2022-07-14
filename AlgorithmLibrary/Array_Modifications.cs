@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 namespace AlgorithmLibrary
 {
    public partial class ArrayAlgo{
@@ -60,5 +61,14 @@ namespace AlgorithmLibrary
                return (int[])uniqArrList.ToArray(typeof(int));
             }
       }
+        public static bool ContainsDuplicate(int[] nums)
+        {
+            var uniques = nums.Distinct();
+
+            if(uniques.Count()==nums.Length)
+                return false;
+
+            return true;
+        }
    }
 }

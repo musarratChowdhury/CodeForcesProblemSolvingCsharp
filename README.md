@@ -72,10 +72,9 @@
   <li>Problem - 110A - Codeforces	Nearly Lucky Number</li>
   <li>Problem - 344A - Codeforces	Magnet</li>
   <li>Problem - 339B- Codeforces	Xenia and RingRoad</li>
- <li>Problem - 510A - Codeforces	Fox and Snake</li>
 
 
-  <li>Till 9th March ,2022</li>
+  <li>Till 4th February ,2022</li>
 
 </ol>
 

@@ -32,5 +32,41 @@ namespace AlgorithmLibrary
          }
          return result;
       }
+        public static int pow(int x ,int n)
+        {
+            int value;
+            if(n==0)
+            {
+                return 1;
+            }
+            else if(n%2==0)
+            {
+                value = pow(x, n / 2);
+                return (value * value);
+            }
+            else
+            {
+                value = pow(x, n / 2);
+                return (x * value * value);
+            }
+        }
+        public static double pow(double x,double n)
+        {
+            double value;
+            if (n == 0)
+            {
+                return 1;
+            }
+            else if (n % 2 == 0)
+            {
+                value = pow(x, n / 2);
+                return (value * value);
+            }
+            else
+            {
+                value = pow(x, n / 2);
+                return (x * value * value);
+            }
+        }
    }
 }

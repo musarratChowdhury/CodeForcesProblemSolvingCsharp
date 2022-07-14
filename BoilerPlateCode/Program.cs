@@ -22,7 +22,7 @@ namespace problem
 
             //solution
 
-           
+
 
         }
     }
