@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
+
 namespace AlgorithmLibrary
 {
    public partial class ArrayAlgo{
@@ -70,5 +72,22 @@ namespace AlgorithmLibrary
 
             return true;
         }
-   }
+        public static string GetPrintableArray<T>(T[] arr)
+        {
+            var sb = new StringBuilder();
+
+            sb.Append("[");
+            for (int i = 0; i < arr.Length; i++)
+            {
+                sb.Append(arr[i]?.ToString());
+                //sb.Append(" ");
+                if (i != arr.Length - 1)
+                    sb.Append(",");
+            }
+            sb.Append("]");
+
+
+            return sb.ToString();
+        }
+    }
 }

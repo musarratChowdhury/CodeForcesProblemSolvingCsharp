@@ -31,5 +31,21 @@ namespace AlgorithmLibrary
 
             return resultArr.Max();
         }
+        #region intersection of Two arrays
+        public static int[] Intersect(int[] nums1, int[] nums2)
+        {
+            var listy = new List<int>(nums2);
+            var result = new List<int>();
+            for(int i = 0;i<nums1.Length;i++)
+            {
+                if (listy.Contains(nums1[i]))
+                {
+                    listy.Remove(nums1[i]);
+                    result.Add(nums1[i]);
+                }
+            }
+            return result.ToArray();
+        }
+        #endregion
     }
 }
