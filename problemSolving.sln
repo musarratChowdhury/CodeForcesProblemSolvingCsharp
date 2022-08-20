@@ -117,7 +117,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoilerPlateCode", "BoilerPl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "problem-230B-TPrimes", "problem-230B-TPrimes\problem-230B-TPrimes.csproj", "{3D99C001-C1E8-4DBA-8A91-716D4CA6029B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem-155A-Iloveusername", "problem-155A-Iloveusername\problem-155A-Iloveusername.csproj", "{5626B2D8-316B-487F-93D3-B6CE14A7E064}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "problem-155A-Iloveusername", "problem-155A-Iloveusername\problem-155A-Iloveusername.csproj", "{5626B2D8-316B-487F-93D3-B6CE14A7E064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem-732A-buyAShovel", "problem-732A-buyAShovel\problem-732A-buyAShovel.csproj", "{54266533-3B15-44AE-9592-DC74BD2C2725}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -825,6 +827,18 @@ Global
 		{5626B2D8-316B-487F-93D3-B6CE14A7E064}.Release|x64.Build.0 = Release|Any CPU
 		{5626B2D8-316B-487F-93D3-B6CE14A7E064}.Release|x86.ActiveCfg = Release|Any CPU
 		{5626B2D8-316B-487F-93D3-B6CE14A7E064}.Release|x86.Build.0 = Release|Any CPU
+		{54266533-3B15-44AE-9592-DC74BD2C2725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54266533-3B15-44AE-9592-DC74BD2C2725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54266533-3B15-44AE-9592-DC74BD2C2725}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{54266533-3B15-44AE-9592-DC74BD2C2725}.Debug|x64.Build.0 = Debug|Any CPU
+		{54266533-3B15-44AE-9592-DC74BD2C2725}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{54266533-3B15-44AE-9592-DC74BD2C2725}.Debug|x86.Build.0 = Debug|Any CPU
+		{54266533-3B15-44AE-9592-DC74BD2C2725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54266533-3B15-44AE-9592-DC74BD2C2725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54266533-3B15-44AE-9592-DC74BD2C2725}.Release|x64.ActiveCfg = Release|Any CPU
+		{54266533-3B15-44AE-9592-DC74BD2C2725}.Release|x64.Build.0 = Release|Any CPU
+		{54266533-3B15-44AE-9592-DC74BD2C2725}.Release|x86.ActiveCfg = Release|Any CPU
+		{54266533-3B15-44AE-9592-DC74BD2C2725}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
