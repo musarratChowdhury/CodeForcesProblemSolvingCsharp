@@ -18,19 +18,19 @@ namespace problem
             int[] F = new int[101];
             //solution
 
-            //WriteLine(Fib(40, F));
+            WriteLine(Fib(40, F));
             //WriteLine(pascalTriangle(5, 4));
             //PrintPascalTriangle(5);
-            var printPascal = GetPascalTriangle(40);
-            foreach(var row in printPascal)
-            {
-                Write(row.Count + " "+":");
-                foreach(var col in row)
-                {
-                    Write(col+" ");
-                }
-                WriteLine();
-            }
+            // var printPascal = GetPascalTriangle(40);
+            // foreach(var row in printPascal)
+            // {
+            //     Write(row.Count + " "+":");
+            //     foreach(var col in row)
+            //     {
+            //         Write(col+" ");
+            //     }
+            //     WriteLine();
+            // }
 
 
 
