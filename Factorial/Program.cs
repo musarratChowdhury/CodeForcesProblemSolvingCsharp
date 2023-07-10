@@ -1,28 +1,22 @@
 ﻿using System;
 
-namespace Fibonacci
+namespace Factorial
 {
     internal class Program
     {
         public static void Main(string[] args)
         {
-            var result = Fibonacci(4);
+            var result = Factorial(3);
             Console.WriteLine(result);
         }
 
-        static int Fibonacci(int n)
+        static int Factorial(int n)
         {
-            if (n == 0)
-            {
-                return 0;
-            }
-
             if (n == 1)
             {
                 return 1;
             }
-
-            return Fibonacci(n - 1) + Fibonacci(n - 2);
+            return n * Factorial(n - 1);
         }
     }
 }
