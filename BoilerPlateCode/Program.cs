@@ -20,7 +20,15 @@ namespace problem
             //int m = Convert.ToInt32(line1?[1]);
             //var line2 = ReadLine()?.Split(" ");
 
-            
+            // string[] input = Console.ReadLine().Split();
+            // int n = int.Parse(input[0]); //number of people
+            // int k = int.Parse(input[1]); //minimum participation
+            //
+            // int[] participationCounts = Console.ReadLine().Split()
+            //     .Select(int.Parse)
+            //     .OrderBy(x => x)
+            //     .ToArray();
+
             
             //Read();
             //necessary variables
