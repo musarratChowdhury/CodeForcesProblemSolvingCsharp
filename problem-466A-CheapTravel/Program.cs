@@ -23,13 +23,42 @@ namespace problem_466A_CheapTravel
             string[] input = Console.ReadLine().Split();
             int n = int.Parse(input[0]); //number of rides
             int m = int.Parse(input[1]); //the number of rides covered by the m ride ticket
-            int a = int.Parse(input[2]); //the price of a one ride ticket 
-            int b = int.Parse(input[3]); //the price of an m ride ticket
+            double a = double.Parse(input[2]); //the price of a one ride ticket 
+            double b = double.Parse(input[3]); //the price of an m ride ticket
+            
 
-            int totalCost = 0;
+            double totalCost = 0;
+            double costPerRide = b / m;
             
             //n * a || 
             
+            //lets check if taking m rides will be profitable
+            if (m >= n && n*a>b)
+            {
+                totalCost = b;
+                Console.WriteLine(Convert.ToInt32(totalCost));
+
+                return;
+            }
+            while (n > 0)
+            {
+                if (costPerRide <= a && n-m>=0)
+                {
+                    n -= m;
+                    totalCost += b;
+                }
+                else if (n - m < 0 && totalCost + b < totalCost + a)
+                {
+                    n -= m;
+                    totalCost += b;
+                }
+                else
+                {
+                    n--;
+                    totalCost += a;
+                }
+            }
+            Console.WriteLine(Convert.ToInt32(totalCost));
         }
     }
 }
