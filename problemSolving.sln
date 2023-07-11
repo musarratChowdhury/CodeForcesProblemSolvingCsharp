@@ -169,6 +169,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem-466A-CheapTravel", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingPrimeNumbers", "FindingPrimeNumbers\FindingPrimeNumbers.csproj", "{E085B49F-7B3F-4B9D-8403-AC263E16771C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem-279B-Books", "problem-279B-Books\problem-279B-Books.csproj", "{336C0256-F8D7-471A-847C-56FDB1FFB561}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1139,6 +1141,18 @@ Global
 		{E085B49F-7B3F-4B9D-8403-AC263E16771C}.Release|x64.Build.0 = Release|Any CPU
 		{E085B49F-7B3F-4B9D-8403-AC263E16771C}.Release|x86.ActiveCfg = Release|Any CPU
 		{E085B49F-7B3F-4B9D-8403-AC263E16771C}.Release|x86.Build.0 = Release|Any CPU
+		{336C0256-F8D7-471A-847C-56FDB1FFB561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336C0256-F8D7-471A-847C-56FDB1FFB561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336C0256-F8D7-471A-847C-56FDB1FFB561}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{336C0256-F8D7-471A-847C-56FDB1FFB561}.Debug|x64.Build.0 = Debug|Any CPU
+		{336C0256-F8D7-471A-847C-56FDB1FFB561}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{336C0256-F8D7-471A-847C-56FDB1FFB561}.Debug|x86.Build.0 = Debug|Any CPU
+		{336C0256-F8D7-471A-847C-56FDB1FFB561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336C0256-F8D7-471A-847C-56FDB1FFB561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336C0256-F8D7-471A-847C-56FDB1FFB561}.Release|x64.ActiveCfg = Release|Any CPU
+		{336C0256-F8D7-471A-847C-56FDB1FFB561}.Release|x64.Build.0 = Release|Any CPU
+		{336C0256-F8D7-471A-847C-56FDB1FFB561}.Release|x86.ActiveCfg = Release|Any CPU
+		{336C0256-F8D7-471A-847C-56FDB1FFB561}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

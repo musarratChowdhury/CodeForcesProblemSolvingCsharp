@@ -28,6 +28,7 @@ namespace problem
             //     .Select(int.Parse)
             //     .OrderBy(x => x)
             //     .ToArray();
+            // int[] books = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
 
             
             //Read();
