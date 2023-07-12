@@ -52,7 +52,7 @@ namespace problem_279B_Books
 
             int maxBooks = 0;
             int sumTime = 0; //current sum of book reading times
-            int left = 0;
+            int startingPoint = 0;
             
 
             for (int right = 0; right < n; right++)
@@ -61,11 +61,11 @@ namespace problem_279B_Books
 
                 while (sumTime > t)
                 {
-                    sumTime -= books[left];
-                    left++;
+                    sumTime -= books[startingPoint];
+                    startingPoint++;
                 }
 
-                maxBooks = Math.Max(maxBooks, right - left + 1);
+                maxBooks = Math.Max(maxBooks, right - startingPoint + 1);
             }
 
             Console.WriteLine(maxBooks);
@@ -75,13 +75,16 @@ namespace problem_279B_Books
             //     Here's the step-by-step algorithm:
             //
             // Read the values of n and t from input.
-            //     Read the sequence of n integers representing the time needed to read each book.
-            //     Initialize variables: maxBooks to store the maximum number of books Valera can read, sum to store the current sum of book reading times, and left and right as pointers initially set to 0.
-            //     Iterate through the books using the right pointer:
+            //      Read the sequence of n integers representing the time needed to read each book.
+            //      Initialize variables: maxBooks to store the maximum number of books Valera can read,
+            //      sum to store the current sum of book reading times,
+            //      and left and right as pointers initially set to 0.
+            //      Iterate through the books using the right pointer:
             //      Increment right until the sum of book reading times is less than or equal to t.
-            //     Update maxBooks if the current number of books (i.e., right - left + 1) is greater than the current maximum.
-            //     Increment left to exclude the first book in the subarray.
-            //     Decrement the sum by the time needed to read the first book.
+            //      Update maxBooks if the current number of books (i.e., right - left + 1) is greater
+            //      than the current maximum.
+            //      Increment left to exclude the first book in the subarray.
+            //      Decrement the sum by the time needed to read the first book.
         }
 
     }
